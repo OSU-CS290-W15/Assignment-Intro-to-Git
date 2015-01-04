@@ -37,7 +37,7 @@ You should have a commit history with the following content:
 - At least one commit following that merge
 - A branch created after (in terms of date and time) the last commit on master that points to the 2nd to last commit on the master branch. This branch should have 1 commit and be called _alternate-bio_.
 
-The following is the output of `git log --graph --all --decorate
+The following is the output of `git log --graph --all --decorate`
 
 [Result of Commits](http://i.imgur.com/BmRMOVt.png)
 
